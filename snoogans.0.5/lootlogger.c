@@ -33,7 +33,7 @@ void lootlogger_item(unit_any* item, char* name)
   else if(item->item_data->quality == 6) 
     rarity = 'y';
   else if(item->item_data->quality == 7) 
-    rarity = 'g';
+    rarity = 'u';
   else if(strstr(name, " Rune") != NULL)
     rarity = 'o';
   //sprintf(lootlogger_loot[lootlogger_nloot], "[%c] %s\n", rarity, name);
