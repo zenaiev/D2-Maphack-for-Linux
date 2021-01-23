@@ -30,6 +30,7 @@
 #include "patch.h"
 #include "stubs.h"
 #include "types.h"
+#include "lootlogger.h"
 
 #include "debug.h"
 
@@ -127,6 +128,11 @@ item_name_patch(unit_any *item, ms_wchar_t *wname)
     }
   char tmp[512];
   ms_wchar_to_char(wname, tmp);
+  //char name_orig[512];
+  //strcpy(name_orig, strtok(tmp, "\n"));
+  lootlogger_item(item, tmp);
+  //lootlogger_print();
+  return;
   char line1[512], *line2;
   strcpy(line1, strtok(tmp, "\n"));
   line2 = strtok(NULL, "\n");
@@ -150,6 +156,8 @@ item_name_patch(unit_any *item, ms_wchar_t *wname)
       strcat(name, "\n");
       strcat(name, line2);
     }
+  //printf("name: %s\n", name);
+  //print_item(item);
   char_to_ms_wchar(name, wname);
 }
 
@@ -304,4 +312,37 @@ remove_hooks()
         }
     }
   return 1;
+}
+
+void print_item(unit_any* item) 
+{
+  printf("_____________________\n");
+  printf("%-18s%u\n", "id", item->id);
+  printf("%-18s%u\n", "quality", item->item_data->quality);
+  printf("%-18s%u,%u\n", "_1", item->item_data->_1[0], item->item_data->_1[1]);
+  printf("%-18s%u\n", "item_flags", item->item_data->item_flags);
+  printf("%-18s%u,%u\n", "_2", item->item_data->_2[0], item->item_data->_2[1]);
+  printf("%-18s%u\n", "flags", item->item_data->flags);
+  printf("%-18s%u,%u\n", "_3", item->item_data->_3[0], item->item_data->_3[1]);
+  printf("%-18s%u\n", "quality2", item->item_data->quality2);
+  printf("%-18s%u\n", "level", item->item_data->level);
+  printf("%-18s%u,%u\n", "_4", item->item_data->_4[0], item->item_data->_4[1]);
+  printf("%-18s%u\n", "prefix", item->item_data->prefix);
+  printf("%-18s%u,%u\n", "_5", item->item_data->_5[0], item->item_data->_5[1]);
+  printf("%-18s%u\n", "suffix", item->item_data->suffix);
+  printf("%-18s%u\n", "_6", item->item_data->_6);
+  printf("%-18s%u\n", "body_location", item->item_data->body_location);
+  printf("%-18s%u\n", "item_location", item->item_data->item_location);
+  printf("%-18s%u\n", "_7", item->item_data->_7);
+  printf("%-18s%u\n", "_8", item->item_data->_8);
+  printf("%-18s%u,%u,%u,%u\n", "_9", item->item_data->_9[0], item->item_data->_9[1], item->item_data->_9[2], item->item_data->_9[3]);
+  printf("%-18s%u\n", "owner_inventory", item->item_data->owner_inventory);
+  printf("%-18s%u\n", "_10", item->item_data->_10);
+  printf("%-18s%p\n", "inv_next", item->item_data->inv_next);
+  printf("%-18s%u\n", "_11", item->item_data->_11);
+  printf("%-18s%u\n", "node_page", item->item_data->node_page);
+  printf("%-18s%u\n", "_12", item->item_data->_12);
+  printf("%-18s%u,%u,%u,%u,%u,%u\n", "_13", item->item_data->_13[0], item->item_data->_13[1], item->item_data->_13[2], item->item_data->_13[3], item->item_data->_13[4], item->item_data->_13[5]);
+  printf("%-18s%p\n", "owner", item->item_data->owner);
+  printf("_____________________\n");
 }

@@ -87,6 +87,7 @@ _init_module()
     {
       ABORT
     }
+  //stop_maphack();
   printf("\n*** MODULE LOADED ***\n\n");
 }
 

@@ -596,6 +596,7 @@ main(int argc, char **argv)
       proc_get_object_base(bin, &patch);
     }
 
+  //printf("patch,p_malloc,p_free,p_dlopen,p_dlclose,action: %p %p %p %p %p %c\n", patch,p_malloc,p_free,p_dlopen,p_dlclose,action);
   if (!(patch && p_malloc && p_free && p_dlopen && (action == 'i' || p_dlclose)))
     {
       printf("err: could not resolve all necessary symbols\n");

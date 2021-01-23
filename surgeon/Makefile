@@ -14,7 +14,8 @@ OBJ = $(CSRC:%.c=%.o) $(ASMSRC:%.S=%.o)
 
 EXE = surgeon
 
-INSTALLPATH = /usr/bin
+#INSTALLPATH = /usr/bin
+INSTALLPATH = /home/zenaiev/games/Diablo2/502/lootfilter/D2-Maphack-for-Linux/build
 
 PROCESSDEP = @cp $*.d $(DEPDIR)/$*.d; \
              sed -e 's/\#.*//' -e 's/^[^:]*: *//' -e 's/ * \\$$//' -e '/^$$/ d' -e 's/$$/:/' < $*.d >> $(DEPDIR)/$*.d; \

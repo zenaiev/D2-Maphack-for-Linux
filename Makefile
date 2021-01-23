@@ -1,4 +1,5 @@
-INSTALLPATH = /usr/bin
+#INSTALLPATH = /usr/bin
+INSTALLPATH = /home/zenaiev/games/Diablo2/502/lootfilter/D2-Maphack-for-Linux/build
 
 all:
 	make -C surgeon && make -C snoogans.0.5

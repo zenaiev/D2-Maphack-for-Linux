@@ -39,4 +39,6 @@ install_hooks();
 int
 remove_hooks();
 
+void print_item(unit_any* item);
+
 #endif /* PATCH_H_ */

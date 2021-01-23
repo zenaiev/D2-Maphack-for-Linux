@@ -178,13 +178,15 @@ proc_get_executable()
     }
   sprintf(path, "/proc/%u/exe", pid);
   executable = (char *) malloc(PATH_MAX); // let's hope that one is defined :(
-  if (readlink(path, executable, PATH_MAX) == -1)
+  ssize_t nreadlink = readlink(path, executable, PATH_MAX);
+  if (nreadlink == -1)
     {
       printf("err: %s\n", strerror(errno));
       free(path);
       return NULL;
     }
-
+  executable[nreadlink] = '\0';
+  
   free(path);
 
   return executable;

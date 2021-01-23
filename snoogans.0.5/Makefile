@@ -18,7 +18,8 @@ OBJ = $(CSRC:%.c=%.o) $(ASMSRC:%.S=%.o)
 
 EXE = snoogans.so
 
-INSTALLPATH = /usr/local/lib
+#INSTALLPATH = /usr/local/lib
+INSTALLPATH = /home/zenaiev/games/Diablo2/502/lootfilter/D2-Maphack-for-Linux/build
 
 PROCESSDEP = @mkdir -p $(DEPDIR); \
 	     cp $*.d $(DEPDIR)/$*.d; \
