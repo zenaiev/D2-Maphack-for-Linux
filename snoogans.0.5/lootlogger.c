@@ -1,4 +1,5 @@
 #include "lootlogger.h"
+#include "patch.h"
 #include <sys/stat.h>
 #include <stdio.h>
 #include <time.h>
@@ -40,6 +41,7 @@ void lootlogger_item(unit_any* item, char* name)
   //lootlogger_nloot++;
   //printf(" >>> NEW LOOT[%u]: %s\n", item->id, lootlogger_loot[lootlogger_nloot]);
   printf(" >>> NEW LOOT[%u]: [%c] %s\n", item->id, rarity, name);
+  print_item(item);
   FILE* fout = fopen(lootlogger_fout, "a+");
   //fprintf(fout, "%s\n", lootlogger_loot[lootlogger_nloot]);
   fprintf(fout, "[%c] %s\n", rarity, name);
@@ -59,7 +61,7 @@ void lootlogger_print()
 
 long int lootlogger_get_mtime()
 {
-  const char *filename = "/home/zenaiev/games/Diablo2/502/lootfilter/D2-Maphack-for-Linux/Vakarchuk.d2s";
+  const char *filename = "/home/zenaiev/games/Diablo2/502/lootfilter/D2-Maphack-for-Linux/ln-loot-character";
   struct stat foo;
   time_t mtime;
   //struct utimbuf new_times;
