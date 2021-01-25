@@ -1,0 +1,4 @@
+mkdir plots
+./chances.py > thr.txt
+./anal.py loot-230121-600.txt
+qpdfview plots/*.pdf
