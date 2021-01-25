@@ -23,11 +23,6 @@ def anal(infile, chancesfile, runs):
           continue
         rarity[rar] = rarity.get(rar, 0) + 1
         loot[item] = loot.get(item, 0) + 1
-  #print('loot: {}'.format(loot))
-  print('rarity: {}'.format(rarity))
-  print('rariry per run: {}'.format({k: round(v/nruns,3) for k,v in rarity.items()}))
-  allitems = rarity['b'] + rarity['y'] + rarity['u'] + rarity['g']
-  print('fractions: b = {:.3f} y = {:.3f} u = {:.3f} g = {:.3f}'.format(rarity['b']/allitems, rarity['y']/allitems, rarity['u']/allitems, rarity['g']/allitems))
 
   report = {}
   sum_exp, sum_obs = 0.0, 0.0
@@ -55,6 +50,11 @@ def anal(infile, chancesfile, runs):
       report[item] = (expect, unc, obs, prob, sigma_prob)
       sum_exp += expect
       sum_obs += obs
+  #print('loot: {}'.format(loot))
+  print('rarity: {}'.format(rarity))
+  print('rariry per run: {}'.format({k: round(v/nruns,3) for k,v in rarity.items()}))
+  allitems = rarity['b'] + rarity['y'] + rarity['u'] + rarity['g']
+  print('fractions: b = {:.3f} y = {:.3f} u = {:.3f} g = {:.3f}'.format(rarity['b']/allitems, rarity['y']/allitems, rarity['u']/allitems, rarity['g']/allitems))
   print('len(report), len(loot): ', len(report), len(loot))
   print('sum_sigma = {:+.3f}'.format(sum_sigma/len(report)))
   sum_prob = scipy.stats.poisson.cdf(sum_obs, sum_exp)
@@ -64,11 +64,11 @@ def anal(infile, chancesfile, runs):
   report_runes = {k:v for k,v in report.items() if ' Rune' in k}
   plot(report_runes, 'plots/runes.pdf')
   report = {k:v for k,v in report.items() if k not in report_runes.keys()}
-  report_gems = {k:v for k,v in report.items() if 'Chipped ' in k or 'Flawed ' in k or 'Flawless ' in k or 'Diamond' == k or 'Ruby' == k or 'Sapphire' == k or 'Amethyst' == k or 'Topaz' == k or 'Skull' == k}
+  report_gems = {k:v for k,v in report.items() if 'Chipped ' in k or 'Flawed ' in k or 'Flawless ' in k or 'Diamond' == k or 'Ruby' == k or 'Sapphire' == k or 'Amethyst' == k or 'Topaz' == k or 'Emerald' == k or 'Skull' == k}
   plot(report_gems, 'plots/gems.pdf')
   report = {k:v for k,v in report.items() if k not in report_gems.keys()}
   print('len(report) = {}'.format(len(report)))
-  n = len(report)/5
+  n = 100
   iplot = 0
   rep = {}
   for idx, k in enumerate(report):
