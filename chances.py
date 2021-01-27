@@ -76,3 +76,4 @@ for mobKey,mob in mobs.items():
       sum_chance += chance
   #print('sum_chance = {}'.format(sum_chance/100.))
   #print('sum_chance_potion = {}'.format(sum_chance_potion/100.))
+  browser.quit()
