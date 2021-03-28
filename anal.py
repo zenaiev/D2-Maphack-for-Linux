@@ -16,6 +16,8 @@ def anal(infile, chancesfile, runs):
     nruns += r
     with open(f) as fin:
       for line in fin.readlines():
+        if len(line) < 2:
+          continue
         rar = str(line[1])
         item = line[4:-1] # remove end of line
         #if 'Potion' in item and ('Rejuvenation' in item or 'Healing' in item or 'Mana' in item):
@@ -56,6 +58,7 @@ def anal(infile, chancesfile, runs):
   allitems = rarity['b'] + rarity['y'] + rarity['u'] + rarity['g']
   print('fractions: b = {:.3f} y = {:.3f} u = {:.3f} g = {:.3f}'.format(rarity['b']/allitems, rarity['y']/allitems, rarity['u']/allitems, rarity['g']/allitems))
   print('len(report), len(loot): ', len(report), len(loot))
+  print('strange: ', [x for x in loot.keys() if x not in report.keys()])
   print('sum_sigma = {:+.3f}'.format(sum_sigma/len(report)))
   sum_prob = scipy.stats.poisson.cdf(sum_obs, sum_exp)
   sum_sigma = scipy.stats.norm.ppf(sum_prob)

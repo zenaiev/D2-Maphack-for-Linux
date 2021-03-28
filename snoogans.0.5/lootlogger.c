@@ -13,6 +13,7 @@ const char* lootlogger_fout = "/home/zenaiev/games/Diablo2/502/lootfilter/D2-Map
 
 void lootlogger_item(unit_any* item, char* name)
 {
+  // ned to check flags: my items have flags             8388624
   if(lootlogger_mtime == 0)
     lootlogger_mtime = lootlogger_get_mtime();
   int mtime = lootlogger_get_mtime();
