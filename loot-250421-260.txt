@@ -1,0 +1,2406 @@
+[w] Greater Healing Potion
+[b] Vampirebone Gloves
+[w] Greater Mana Potion
+[b] Heavy Gloves
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Ataghan
+[w] Rejuvenation Potion
+[y] Zakarum Shield
+[w] Greater Mana Potion
+[w] Full Rejuvenation Potion
+[b] Demonhide Armor
+[w] Flawless Emerald
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Wyrmhide Boots
+[w] Rejuvenation Potion
+[y] Phase Blade
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Highland Blade
+[w] Greater Healing Potion
+[y] Thresher
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[y] Bec-de-Corbin
+[y] Jewel
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Sharkskin Gloves
+[w] Greater Mana Potion
+[y] Wyrmhide Boots
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Light Belt
+[y] Highland Blade
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[b] Composite Bow
+[w] Super Healing Potion
+[y] Balanced Knife
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[y] Sharktooth Armor
+[w] Greater Healing Potion
+[w] Flawed Ruby
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Demon Crossbow
+[w] Greater Healing Potion
+[b] Heavy Crossbow
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Long Sword
+[w] Greater Mana Potion
+[y] Gladius
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Broad Sword
+[b] Espandon
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[y] Feral Axe
+[w] Greater Healing Potion
+[b] Ghost Spear
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Martel de Fer
+[w] Greater Healing Potion
+[y] Lich Wand
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[b] War Axe
+[y] Full Plate Mail
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Scissors Katar
+[w] Greater Healing Potion
+[b] Blade Talons
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Scale Mail
+[w] Full Rejuvenation Potion
+[y] Ring
+[w] Healing Potion
+[w] Greater Mana Potion
+[y] Monarch
+[y] Studded Leather
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Phase Blade
+[w] Greater Healing Potion
+[b] Flying Axe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Dragon Shield
+[w] Super Healing Potion
+[b] Champion Axe
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] Gothic Plate
+[w] Rejuvenation Potion
+[y] Maul
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Healing Potion
+[b] Large Charm
+[w] Super Healing Potion
+[y] Military Axe
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Amulet
+[w] Super Mana Potion
+[y] Antlers
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Battle Axe
+[y] Zweihander
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Broad Axe
+[w] Super Healing Potion
+[b] War Hammer
+[w] Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Gothic Shield
+[w] Super Healing Potion
+[y] Knout
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Unraveller Head
+[g] Belt
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Gauntlets
+[w] Super Healing Potion
+[y] Studded Leather
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Military Pick
+[w] Super Healing Potion
+[b] Greaves
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[u] Spetum
+[y] Crusader Bow
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Crowbill
+[w] Greater Healing Potion
+[y] Light Plated Boots
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] War Spike
+[w] Super Healing Potion
+[y] Brandistock
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Skull Cap
+[y] Kite Shield
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] War Scepter
+[w] Greater Mana Potion
+[y] Chain Mail
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[u] Light Gauntlets
+[y] Hyperion Javelin
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Horned Helm
+[w] Greater Healing Potion
+[u] War Scythe
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[y] Balrog Blade
+[b] Flanged Mace
+[w] Super Mana Potion
+[w] Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Grim Scythe
+[w] Super Healing Potion
+[b] Great Bow
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Breast Plate
+[w] Flawed Amethyst
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] War Spike
+[b] Battle Axe
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Blade
+[y] Balanced Axe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Demonhide Sash
+[w] Super Healing Potion
+[y] Cleaver
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Yari
+[w] Greater Healing Potion
+[b] Ogre Gauntlets
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Templar Coat
+[y] Shako
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] Full Helm
+[w] Super Healing Potion
+[b] War Pike
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[g] Long Battle Bow
+[b] Feral Axe
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Devil Star
+[w] Super Healing Potion
+[y] Truncheon
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Loricated Mail
+[w] Greater Mana Potion
+[b] Halberd
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Naga
+[y] Pellet Bow
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Healing Potion
+[y] Flying Axe
+[w] Super Healing Potion
+[y] Giant Sword
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Studded Leather
+[w] Super Healing Potion
+[b] Blade Barrier
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Flawless Amethyst
+[y] Kurast Shield
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Poignard
+[w] Super Healing Potion
+[y] Demonhide Sash
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[b] Luna
+[w] Super Healing Potion
+[b] Cryptic Axe
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[o] Nef Rune
+[y] Mesh Belt
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Gothic Bow
+[w] Greater Healing Potion
+[y] Hatchet
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] Horned Helm
+[y] Gnarled Staff
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[u] Sharkskin Belt
+[w] Super Healing Potion
+[w] Flawed Ruby
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Kite Shield
+[y] Grim Shield
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[g] Long Battle Bow
+[w] Super Healing Potion
+[y] Gorgon Crossbow
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Reinforced Mace
+[w] Super Mana Potion
+[b] Archon Plate
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Crusader Gauntlets
+[w] Super Mana Potion
+[b] Battle Axe
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[b] Small Charm
+[w] Greater Mana Potion
+[y] Stalagmite
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[u] Ataghan
+[b] Flying Knife
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Mana Potion
+[b] Axe
+[w] Super Healing Potion
+[u] Large Shield
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Light Plated Boots
+[w] Super Mana Potion
+[b] Demonhide Gloves
+[w] Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Claws
+[w] Super Healing Potion
+[y] Tabar
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Mask
+[w] Super Healing Potion
+[y] War Scythe
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Military Axe
+[b] Casque
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[g] Amulet
+[w] Greater Mana Potion
+[b] Colossus Crossbow
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Gargoyle Head
+[w] Super Healing Potion
+[b] Balanced Axe
+[w] Greater Mana Potion
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[y] War Hat
+[w] Full Rejuvenation Potion
+[b] Gladius
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Heraldic Shield
+[y] Partizan
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Long Staff
+[w] Super Mana Potion
+[g] Grand Scepter
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] War Hat
+[w] Super Mana Potion
+[y] Belt
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[o] Thul Rune
+[w] Greater Healing Potion
+[b] Arbalest
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] War Javelin
+[y] Long Bow
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[b] Spiked Shield
+[w] Greater Healing Potion
+[y] Rondel
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Topaz
+[y] Gladius
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[b] Gothic Bow
+[w] Super Healing Potion
+[y] Burnt Wand
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Boneweave
+[y] Giant Axe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Gothic Shield
+[w] Super Healing Potion
+[b] Bone Wand
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Monarch
+[w] Super Healing Potion
+[b] Thresher
+[w] Super Healing Potion
+[w] Super Healing Potion
+[u] Scythe
+[g] Heavy Boots
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[b] Plated Belt
+[w] Super Healing Potion
+[y] Military Pick
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Ghost Spear
+[w] Super Healing Potion
+[y] Tabar
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Balanced Knife
+[w] Super Healing Potion
+[y] Elegant Blade
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] War Club
+[y] Great Maul
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Edge Bow
+[w] Greater Mana Potion
+[y] Mask
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Dirk
+[w] Super Healing Potion
+[b] Crystal Sword
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Broad Sword
+[u] Burnt Wand
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[b] Tusk Sword
+[w] Greater Mana Potion
+[y] Antlers
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Mage Plate
+[y] Short Spear
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] War Dart
+[w] Super Healing Potion
+[o] Tal Rune
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Stygian Pike
+[b] Flail
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Armet
+[y] Hand Scythe
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Cudgel
+[w] Super Healing Potion
+[b] Maiden Javelin
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] Circlet
+[w] Greater Healing Potion
+[y] Russet Armor
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Healing Potion
+[y] Pilum
+[w] Greater Healing Potion
+[y] Spiked Shield
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Grand Charm
+[w] Super Healing Potion
+[b] Gothic Staff
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Rejuvenation Potion
+[y] Composite Bow
+[w] Greater Healing Potion
+[b] Ancient Armor
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[y] Coronet
+[y] Quhab
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Giant Axe
+[w] Greater Healing Potion
+[b] Flail
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Demonhide Sash
+[y] Zakarum Shield
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[b] Poleaxe
+[w] Greater Healing Potion
+[w] Flawless Skull
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Battle Gauntlets
+[y] Breast Plate
+[w] Super Mana Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Greaves
+[w] Super Healing Potion
+[b] Claymore
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Hawk Helm
+[y] Stygian Pike
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[b] Caduceus
+[w] Flawless Emerald
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Cryptic Sword
+[w] Super Mana Potion
+[u] Ogre Maul
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Ancient Sword
+[w] Sapphire
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Chain Mail
+[b] Scissors Katar
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[u] Giant Sword
+[w] Super Mana Potion
+[b] Clasped Orb
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Gorgon Crossbow
+[w] Super Mana Potion
+[u] Scale Mail
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Colossus Voulge
+[b] Hyperion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] Axe
+[w] Super Healing Potion
+[y] Basinet
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Giant Axe
+[y] Giant Sword
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[b] Kite Shield
+[w] Greater Healing Potion
+[b] Hydra Bow
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Plated Belt
+[y] Short Spear
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Long Sword
+[w] Rejuvenation Potion
+[y] Poleaxe
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] Wire Fleece
+[g] Amulet
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Sharkskin Belt
+[w] Full Rejuvenation Potion
+[b] Kite Shield
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Healing Potion
+[y] Plated Belt
+[w] Greater Healing Potion
+[y] Full Helm
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[b] Sharkskin Gloves
+[w] Full Rejuvenation Potion
+[y] Balrog Spear
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Ring Mail
+[g] Long Battle Bow
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Siege Crossbow
+[w] Greater Mana Potion
+[y] Monarch
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Voulge
+[w] Healing Potion
+[y] Spiked Club
+[w] Greater Mana Potion
+[w] Greater Mana Potion
+[b] Battle Dart
+[y] Rune Bow
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Tomahawk
+[w] Greater Healing Potion
+[y] Short Spear
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Blade
+[w] Super Healing Potion
+[b] Grim Wand
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] War Dart
+[w] Greater Healing Potion
+[y] Templar Coat
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Hydraskull
+[y] Dirk
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Falchion
+[y] Light Gauntlets
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[b] Barbed Club
+[w] Greater Healing Potion
+[b] Blade Talons
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Splint Mail
+[g] Plated Belt
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Greater Mana Potion
+[y] Silver-edged Axe
+[y] Belt
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] Barbed Shield
+[w] Greater Healing Potion
+[y] Wrist Sword
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Hyperion
+[b] Devil Star
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] Axe
+[w] Super Healing Potion
+[b] Composite Bow
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Hatchet Hands
+[w] Super Mana Potion
+[y] Maul
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[g] Ring
+[w] Greater Healing Potion
+[y] Broad Axe
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[g] Tower Shield
+[w] Super Healing Potion
+[y] Battle Axe
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[u] Barbed Club
+[y] Jared's Stone
+[w] Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Protector Shield
+[w] Greater Healing Potion
+[b] Ballista
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[b] Broad Axe
+[y] Giant Conch
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Crystalline Globe
+[w] Super Healing Potion
+[y] Claymore
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Sharkskin Gloves
+[y] Mage Plate
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Mesh Armor
+[w] Super Mana Potion
+[y] Heavy Bracers
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Hydra Bow
+[y] Twin Axe
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Ancient Sword
+[b] Heraldic Shield
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Spirit Mask
+[w] Super Healing Potion
+[y] Demonhead
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Scale Mail
+[y] War Sword
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Tyrant Club
+[w] Super Healing Potion
+[b] War Belt
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[y] Short Spear
+[y] War Hat
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Grand Scepter
+[w] Greater Mana Potion
+[y] Military Pick
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[b] Greater Talons
+[w] Full Rejuvenation Potion
+[y] Wyrmhide
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Scythe
+[y] Cestus
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Healing Potion
+[w] Super Mana Potion
+[y] Giant Sword
+[w] Super Healing Potion
+[y] Hyperion Spear
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[b] Military Pick
+[b] Broad Axe
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Gothic Shield
+[w] Greater Healing Potion
+[y] Harpoon
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Greaves
+[w] Super Healing Potion
+[y] Colossus Girdle
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Bone Knife
+[y] Akaran Rondache
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Bone Knife
+[w] Greater Healing Potion
+[b] Edge Bow
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Cryptic Axe
+[y] Balanced Axe
+[w] Healing Potion
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Ring
+[w] Super Healing Potion
+[y] Crown
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[b] Spiderweb Sash
+[w] Super Healing Potion
+[b] Kite Shield
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[y] Hydra Bow
+[w] Greater Healing Potion
+[y] Arbalest
+[w] Greater Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[b] Edge Bow
+[w] Rejuvenation Potion
+[b] Crossbow
+[w] Super Healing Potion
+[w] Super Healing Potion
+[o] Tir Rune
+[y] Colossus Sword
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Ghost Armor
+[y] Yari
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Feral Claws
+[w] Super Mana Potion
+[b] Military Pick
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] Bramble Mitts
+[w] Greater Mana Potion
+[y] Devil Star
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[b] Hatchet
+[w] Greater Mana Potion
+[y] Long War Bow
+[w] Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Bastard Sword
+[w] Super Healing Potion
+[y] Light Plate
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Gothic Axe
+[w] Super Mana Potion
+[y] Gothic Shield
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Short Spear
+[y] Short Siege Bow
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Full Rejuvenation Potion
+[w] Flawless Diamond
+[w] Super Mana Potion
+[b] Balanced Knife
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[b] Hatchet
+[b] Cedar Bow
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[y] Battle Scythe
+[w] Greater Healing Potion
+[y] Grand Scepter
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Giant Sword
+[y] War Javelin
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Repeating Crossbow
+[w] Greater Healing Potion
+[y] War Sword
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Silver-edged Axe
+[y] Crossbow
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[y] Scythe
+[w] Greater Healing Potion
+[o] El Rune
+[w] Super Healing Potion
+[w] Healing Potion
+[y] Vampirebone Gloves
+[b] Glorious Axe
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Mace
+[w] Rejuvenation Potion
+[y] Long Sword
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Military Pick
+[y] Silver-edged Axe
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Falcata
+[y] Falchion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Fanged Knife
+[w] Healing Potion
+[b] Battle Cestus
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[b] Aerin Shield
+[w] Greater Healing Potion
+[y] Hyperion Spear
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Cudgel
+[y] Great Maul
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[y] Executioner Sword
+[w] Super Mana Potion
+[y] Sharkskin Gloves
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[b] Leather Gloves
+[w] Full Rejuvenation Potion
+[b] Chain Boots
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Wand
+[y] Winged Knife
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Field Plate
+[w] Full Rejuvenation Potion
+[y] Brandistock
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[b] Ghost Wand
+[b] Fury Visor
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Zweihander
+[w] Super Mana Potion
+[y] Brandistock
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] Flanged Mace
+[b] Long Battle Bow
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Battle Axe
+[w] Super Healing Potion
+[b] Cestus
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Double Axe
+[u] Grim Shield
+[w] Rejuvenation Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Flawed Ruby
+[w] Super Mana Potion
+[y] Jared's Stone
+[w] Super Mana Potion
+[w] Super Mana Potion
+[b] Hatchet Hands
+[b] Stiletto
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Giant Conch
+[w] Greater Mana Potion
+[y] Tigulated Mail
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Savage Helmet
+[w] Greater Healing Potion
+[y] Gladius
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Battle Axe
+[y] Twin Axe
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Broad Sword
+[w] Super Healing Potion
+[y] Sharktooth Armor
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Short Spear
+[w] Greater Healing Potion
+[y] Grand Crown
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[b] Heraldic Shield
+[y] Demonhide Boots
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] War Spear
+[w] Super Healing Potion
+[y] Stygian Pilum
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[y] Great Axe
+[y] Grim Scythe
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Mesh Belt
+[w] Full Rejuvenation Potion
+[y] Vambraces
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Defender
+[b] Conquest Sword
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Scarab Husk
+[y] Cantor Trophy
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Unraveller Head
+[w] Greater Healing Potion
+[y] Light Belt
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Kraken Shell
+[y] Scissors Suwayyah
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Grand Scepter
+[w] Super Healing Potion
+[y] Composite Bow
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[b] Grand Crown
+[w] Super Healing Potion
+[y] Rune Bow
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Greaves
+[w] Greater Healing Potion
+[y] Glaive
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] War Spear
+[y] Battle Scythe
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[u] Ballista
+[w] Super Healing Potion
+[y] Bastard Sword
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Mancatcher
+[y] Silver-edged Axe
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[b] Dirk
+[w] Super Mana Potion
+[y] Splint Mail
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Short War Bow
+[u] Gothic Plate
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Wrist Blade
+[w] Greater Healing Potion
+[y] Glaive
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[b] Hydra Edge
+[y] Ornate Plate
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Double Axe
+[w] Super Healing Potion
+[y] Arbalest
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Two-Handed Sword
+[w] Super Healing Potion
+[y] Breast Plate
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Reinforced Mace
+[w] Super Mana Potion
+[y] Flail
+[w] Super Healing Potion
+[w] Healing Potion
+[b] Cudgel
+[b] Colossus Sword
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[b] Axe
+[w] Greater Mana Potion
+[w] Flawless Amethyst
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[y] Throwing Spear
+[y] Pike
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Clasped Orb
+[w] Super Mana Potion
+[y] Pike
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Heraldic Shield
+[w] Ruby
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Rejuvenation Potion
+[y] Broad Sword
+[w] Healing Potion
+[g] War Sword
+[w] Super Mana Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[y] Composite Bow
+[w] Super Healing Potion
+[b] Morning Star
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Colossus Voulge
+[w] Super Healing Potion
+[y] Ancient Sword
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] Flamberge
+[w] Full Rejuvenation Potion
+[u] Scale Mail
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Edge Bow
+[w] Greater Healing Potion
+[y] Legendary Mallet
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] War Hammer
+[w] Healing Potion
+[y] Rune Bow
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[b] Maiden Spear
+[y] Highland Blade
+[w] Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[y] Scissors Katar
+[w] Super Healing Potion
+[y] Broad Axe
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Healing Potion
+[w] Greater Healing Potion
+[y] Sharktooth Armor
+[w] Super Mana Potion
+[y] Phase Blade
+[b] Mesh Armor
+[b] Gothic Bow
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[b] Full Helm
+[w] Greater Healing Potion
+[y] Mythical Sword
+[w] Super Mana Potion
+[w] Healing Potion
+[y] Winged Axe
+[b] Large Charm
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Sabre
+[w] Greater Healing Potion
+[b] Small Charm
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Long Sword
+[y] Bearded Axe
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] Greaves
+[w] Super Healing Potion
+[y] Fascia
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Stygian Pilum
+[y] Dirk
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Spiked Shield
+[w] Healing Potion
+[y] Maul
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[b] Yari
+[w] Super Mana Potion
+[y] Falcata
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[u] Scimitar
+[y] Devil Star
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Tower Shield
+[w] Greater Healing Potion
+[y] Amulet
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Battle Cestus
+[w] Super Healing Potion
+[y] Cudgel
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[b] Francisca
+[b] Lochaber Axe
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Full Helm
+[b] Greater Talons
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Round Shield
+[w] Super Mana Potion
+[w] Ruby
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] War Dart
+[w] Super Mana Potion
+[b] Bone Shield
+[w] Rejuvenation Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[y] War Scythe
+[w] Greater Healing Potion
+[y] Crowbill
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[y] Battle Staff
+[w] Greater Healing Potion
+[u] War Scepter
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Walking Stick
+[b] Zakarum Shield
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[y] Hatchet Hands
+[y] Balrog Spear
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Battle Gauntlets
+[w] Super Mana Potion
+[b] Siege Crossbow
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Ogre Axe
+[w] Full Rejuvenation Potion
+[y] Hyperion
+[w] Healing Potion
+[w] Super Mana Potion
+[b] Short Spear
+[y] Ancient Shield
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[b] Stiletto
+[w] Healing Potion
+[y] Cestus
+[w] Greater Mana Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[b] Trellised Armor
+[w] Super Healing Potion
+[b] Heavy Crossbow
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Seraph Rod
+[w] Super Healing Potion
+[b] Loricated Mail
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] Trellised Armor
+[w] Super Mana Potion
+[b] Chu-Ko-Nu
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Wire Fleece
+[w] Greater Mana Potion
+[y] Battle Axe
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[y] Jagged Star
+[w] Super Mana Potion
+[b] Eldritch Orb
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Long Bow
+[w] Super Mana Potion
+[w] Topaz
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[y] Light Gauntlets
+[w] Super Healing Potion
+[b] Stygian Pike
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Wrist Sword
+[y] Ring
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Flawless Ruby
+[w] Greater Healing Potion
+[y] Sacred Feathers
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Crusader Gauntlets
+[w] Greater Healing Potion
+[y] Mask
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[y] Gauntlets
+[w] Super Mana Potion
+[y] Demonhide Boots
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Gargoyle Head
+[w] Super Mana Potion
+[y] Gothic Axe
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[y] Wrist Blade
+[y] Akaran Rondache
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Helm
+[w] Super Mana Potion
+[y] Helm
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Amulet
+[b] War Gauntlets
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Feral Axe
+[w] Super Healing Potion
+[y] Silver-edged Axe
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Long Bow
+[g] Heavy Belt
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Mirrored Boots
+[w] Super Mana Potion
+[y] Kris
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Throwing Spear
+[w] Rejuvenation Potion
+[b] Glowing Orb
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Heavy Belt
+[y] Pellet Bow
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[y] Cedar Bow
+[w] Greater Mana Potion
+[y] Dirk
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Claymore
+[y] Morning Star
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[g] Heavy Bracers
+[w] Greater Mana Potion
+[y] Blade
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[b] Sharktooth Armor
+[w] Rejuvenation Potion
+[y] Jawbone Cap
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[b] Colossus Crossbow
+[y] Short Battle Bow
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[b] Death Mask
+[w] Greater Healing Potion
+[u] Military Axe
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[b] Heavy Belt
+[w] Greater Healing Potion
+[b] Defender
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Ogre Axe
+[y] Spirit Mask
+[w] Full Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Diamond Mail
+[w] Super Mana Potion
+[y] Poleaxe
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Helm
+[w] Greater Healing Potion
+[y] War Fist
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[y] Blade
+[w] Super Healing Potion
+[y] War Club
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[b] Spetum
+[w] Greater Mana Potion
+[y] Long War Bow
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Light Plate
+[y] Edge Bow
+[w] Greater Healing Potion
+[w] Healing Potion
+[w] Full Rejuvenation Potion
+[w] Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[b] Full Helm
+[w] Super Healing Potion
+[y] Broad Sword
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[y] Gothic Shield
+[y] Sharktooth Armor
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Yari
+[w] Super Healing Potion
+[y] Armet
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Balanced Axe
+[w] Super Mana Potion
+[b] Tomb Wand
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[y] Phase Blade
+[w] Super Healing Potion
+[y] Sabre
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Great Maul
+[w] Greater Healing Potion
+[y] Polished Wand
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Heavy Belt
+[w] Super Healing Potion
+[y] Great Sword
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[b] Large Charm
+[w] Greater Mana Potion
+[y] Colossus Voulge
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Reinforced Mace
+[y] Chain Mail
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Helm
+[w] Super Healing Potion
+[y] Grim Scythe
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[b] Edge Bow
+[y] War Hat
+[w] Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Broad Sword
+[w] Super Healing Potion
+[y] Cudgel
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Military Axe
+[y] Circlet
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[y] Broad Axe
+[w] Greater Mana Potion
+[b] Helm
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Gauntlets
+[b] Heavy Gloves
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Wyrmhide
+[w] Super Mana Potion
+[y] Claymore
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[o] Nef Rune
+[w] Super Mana Potion
+[y] Claws
+[y] Chu-Ko-Nu
+[y] Demonhide Gloves
+[w] Super Mana Potion
+[w] Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Francisca
+[w] Super Healing Potion
+[g] Hellforge Plate
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Quhab
+[y] Short War Bow
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Sharkskin Gloves
+[w] Super Healing Potion
+[y] War Javelin
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Amulet
+[w] Greater Mana Potion
+[y] Crown
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[b] Sabre
+[y] Mace
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[b] Winged Axe
+[w] Greater Healing Potion
+[y] Double Bow
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[g] Demonhide Boots
+[w] Greater Healing Potion
+[y] Devil Star
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Morning Star
+[w] Super Mana Potion
+[y] Chu-Ko-Nu
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Crystal Sword
+[y] Aerin Shield
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] War Hammer
+[w] Greater Healing Potion
+[y] Pellet Bow
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Throwing Axe
+[b] Wrist Blade
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Martel de Fer
+[w] Greater Healing Potion
+[b] Light Plate
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[u] Glorious Axe
+[w] Super Healing Potion
+[b] Phase Blade
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[y] Pellet Bow
+[y] Aerin Shield
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Bone Shield
+[w] Greater Healing Potion
+[b] Battle Axe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[b] Gothic Bow
+[y] Dirk
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Death Mask
+[w] Greater Mana Potion
+[y] Scale Mail
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Scale Mail
+[b] Stag Bow
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[o] Tal Rune
+[y] Light Gauntlets
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Healing Potion
+[y] Spiked Shield
+[y] Ancient Shield
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Broad Sword
+[w] Rejuvenation Potion
+[y] Kite Shield
+[w] Super Mana Potion
+[w] Super Healing Potion
+[b] Ring
+[u] Grim Wand
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Fascia
+[w] Super Healing Potion
+[y] Jewel
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Stalagmite
+[y] Blade Bow
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[b] Morning Star
+[w] Super Healing Potion
+[y] Claymore
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Battle Axe
+[y] Maul
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[b] Demonhead
+[w] Super Healing Potion
+[b] Hyperion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Rejuvenation Potion
+[y] Legendary Mallet
+[w] Greater Healing Potion
+[y] Ettin Axe
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Dragon Shield
+[w] Super Mana Potion
+[b] Throwing Spear
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Trellised Armor
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] Hatchet
+[w] Super Healing Potion
+[y] Aerin Shield
+[w] Rejuvenation Potion
+[y] Spider Bow
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[b] Legend Spike
+[w] Greater Mana Potion
+[y] Elegant Blade
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Greater Talons
+[w] Super Healing Potion
+[y] Lochaber Axe
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[y] War Dart
+[y] Antlers
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Aegis
+[w] Greater Healing Potion
+[y] Throwing Spear
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Glowing Orb
+[w] Flawless Diamond
+[w] Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Flawless Skull
+[w] Greater Healing Potion
+[b] Giant Sword
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[y] Kris
+[y] Long Bow
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] Grim Shield
+[w] Super Healing Potion
+[y] Sallet
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[b] Chu-Ko-Nu
+[b] Balrog Blade
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] Bearded Axe
+[w] Healing Potion
+[y] Military Pick
+[w] Super Healing Potion
+[w] Super Healing Potion
+[b] Brandistock
+[y] Akaran Targe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[y] Flail
+[w] Greater Healing Potion
+[y] Heavy Gloves
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Amulet
+[w] Rejuvenation Potion
+[y] Barbed Shield
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[y] Short War Bow
+[b] Blade Talons
+[w] Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[y] Hatchet Hands
+[w] Super Healing Potion
+[y] Ballista
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Pellet Bow
+[w] Greater Mana Potion
+[y] Ashwood Bow
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[y] Sexton Trophy
+[w] Super Mana Potion
+[y] Rondel
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[y] Cleaver
+[y] Death Mask
+[w] Super Healing Potion
+[w] Healing Potion
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[y] Splint Mail
+[w] Greater Mana Potion
+[y] Linked Mail
+[w] Greater Healing Potion
+[w] Full Rejuvenation Potion
+[w] Full Rejuvenation Potion
+[y] Large Siege Bow
+[w] Super Mana Potion
+[y] Quhab
+[w] Rejuvenation Potion
+[w] Super Mana Potion
+[b] Helm
+[y] Dimensional Shard
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[b] Short War Bow
+[w] Super Healing Potion
+[y] Gladius
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] Pellet Bow
+[w] Greater Mana Potion
+[b] Wrist Spike
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[y] Brandistock
+[y] War Dart
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[y] Legend Spike
+[w] Super Healing Potion
+[y] Short Siege Bow
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Walking Stick
+[w] Rejuvenation Potion
+[y] Blade Talons
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Large Axe
+[w] Rejuvenation Potion
+[b] Maul
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[y] Siege Crossbow
+[y] War Axe
+[w] Full Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Greater Mana Potion
+[y] Colossus Voulge
+[w] Super Healing Potion
+[b] Demonhide Gloves
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Two-Handed Sword
+[y] Ring
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Falcata
+[w] Greater Healing Potion
+[y] Blade Bow
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Balrog Spear
+[y] Greaves
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Chain Boots
+[w] Super Healing Potion
+[y] Partizan
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[y] Dirk
+[w] Greater Mana Potion
+[b] Wrist Spike
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[y] Chain Gloves
+[y] Siege Crossbow
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Super Mana Potion
+[y] Crossbow
+[b] Broad Axe
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Rejuvenation Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[b] Tomahawk
+[w] Greater Healing Potion
+[y] Avenger Guard
+[w] Full Rejuvenation Potion
+[w] Greater Healing Potion
+[b] Balanced Axe
+[y] Balrog Blade
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Edge Bow
+[w] Super Healing Potion
+[b] Chain Boots
+[w] Super Healing Potion
+[w] Super Mana Potion
+[y] Tower Shield
+[y] Claymore
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Greater Mana Potion
+[y] Mesh Belt
+[w] Super Healing Potion
+[y] Gauntlets
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Flawed Diamond
+[w] Super Mana Potion
+[y] Mithril Point
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Full Rejuvenation Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[u] Claymore
+[w] Super Mana Potion
+[b] Francisca
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Fanged Helm
+[y] Hand Scythe
+[w] Greater Mana Potion
+[w] Super Healing Potion
+[w] Super Healing Potion
+[w] Greater Healing Potion
+[y] Light Plated Boots
+[b] Grand Crown
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Super Mana Potion
+[w] Greater Mana Potion
+[y] Dimensional Blade
+[w] Super Healing Potion
+[y] Great Axe
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[y] Colossus Blade
+[y] Barbed Club
+[w] Greater Healing Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[w] Super Mana Potion
+[b] Heavy Crossbow
+[y] Monarch
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Super Healing Potion
+[y] Ancient Shield
+[y] Grand Scepter
+[w] Super Mana Potion
+[w] Greater Healing Potion
+[w] Greater Healing Potion
+[w] Super Healing Potion
+[w] Healing Potion
+[y] Battle Axe
+[w] Greater Mana Potion
+[y] Plate Mail
+[w] Super Healing Potion
+[w] Greater Mana Potion
+[w] Greater Mana Potion
+[b] Great Helm
+[w] Super Mana Potion
+[y] Breast Plate
+[w] Rejuvenation Potion
+[w] Healing Potion
+[y] Silver-edged Axe
+[y] Bill
+[w] Super Mana Potion
+[w] Super Healing Potion
+[w] Rejuvenation Potion
+[w] Healing Potion
+[w] Greater Healing Potion
+[y] Runic Talons
+[w] Super Mana Potion
+[y] Blade Talons
+[w] Rejuvenation Potion
+[w] Super Healing Potion
